@@ -1,0 +1,15 @@
+C:\Projetos\Full\Chatexemplo\WebChat\WebChat\WebChat.Infra\bin\Debug\netcoreapp3.1\WebChat.Infra.deps.json
+C:\Projetos\Full\Chatexemplo\WebChat\WebChat\WebChat.Infra\bin\Debug\netcoreapp3.1\WebChat.Infra.runtimeconfig.json
+C:\Projetos\Full\Chatexemplo\WebChat\WebChat\WebChat.Infra\bin\Debug\netcoreapp3.1\WebChat.Infra.runtimeconfig.dev.json
+C:\Projetos\Full\Chatexemplo\WebChat\WebChat\WebChat.Infra\bin\Debug\netcoreapp3.1\WebChat.Infra.dll
+C:\Projetos\Full\Chatexemplo\WebChat\WebChat\WebChat.Infra\bin\Debug\netcoreapp3.1\WebChat.Infra.pdb
+C:\Projetos\Full\Chatexemplo\WebChat\WebChat\WebChat.Infra\bin\Debug\netcoreapp3.1\WebChat.Domain.dll
+C:\Projetos\Full\Chatexemplo\WebChat\WebChat\WebChat.Infra\bin\Debug\netcoreapp3.1\WebChat.Domain.pdb
+C:\Projetos\Full\Chatexemplo\WebChat\WebChat\WebChat.Infra\obj\Debug\netcoreapp3.1\WebChat.Infra.csprojAssemblyReference.cache
+C:\Projetos\Full\Chatexemplo\WebChat\WebChat\WebChat.Infra\obj\Debug\netcoreapp3.1\WebChat.Infra.AssemblyInfoInputs.cache
+C:\Projetos\Full\Chatexemplo\WebChat\WebChat\WebChat.Infra\obj\Debug\netcoreapp3.1\WebChat.Infra.AssemblyInfo.cs
+C:\Projetos\Full\Chatexemplo\WebChat\WebChat\WebChat.Infra\obj\Debug\netcoreapp3.1\WebChat.Infra.csproj.CoreCompileInputs.cache
+C:\Projetos\Full\Chatexemplo\WebChat\WebChat\WebChat.Infra\obj\Debug\netcoreapp3.1\WebChat.Infra.csproj.CopyComplete
+C:\Projetos\Full\Chatexemplo\WebChat\WebChat\WebChat.Infra\obj\Debug\netcoreapp3.1\WebChat.Infra.dll
+C:\Projetos\Full\Chatexemplo\WebChat\WebChat\WebChat.Infra\obj\Debug\netcoreapp3.1\WebChat.Infra.pdb
+C:\Projetos\Full\Chatexemplo\WebChat\WebChat\WebChat.Infra\obj\Debug\netcoreapp3.1\WebChat.Infra.genruntimeconfig.cache

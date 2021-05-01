@@ -32,7 +32,7 @@ namespace WebChat.Application
             services.AddTransient<IUserRepository, UserRepository>();
             services.AddTransient<IMessageRepository, MessageRepository>();
 
-            services.AddDbContext<ChatDataContext>(options => options.UseSqlServer(Configuration["ConnectionStrings:SqlServer"]));
+            services.AddDbContext<ChatDataContext>(options => options.UseInMemoryDatabase("Database"));
 
             services.AddSignalR();
 

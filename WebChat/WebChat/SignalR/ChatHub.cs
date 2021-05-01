@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.SignalR;
 using WebChat.Domain.Entities;
@@ -18,11 +19,13 @@ namespace WebChat.Application.SignalR
         public async Task SendMessage(User user, string message, int receiverID)
         {
 
+            string message2 = ValidaMensagem(message);
+
             var messageSend = new Message
             {
                 FkIdSender = user.Id,
                 FkIdReceiver = receiverID,
-                Text = message,
+                Text = message2,
                 SendDate = DateTime.Now
             };
 
@@ -30,5 +33,19 @@ namespace WebChat.Application.SignalR
 
             await Clients.All.SendAsync("ReceiveMessage", messageSend);
         }
+
+        public string ValidaMensagem(string msg)
+        {
+            string[] palavrasProibidas = { "arroz", "batata" };
+
+
+            if (msg.Equals("Banana"))
+            {
+                msg = "*";
+            }
+
+            return msg;
+        }
+
     }
 }
