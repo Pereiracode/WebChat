@@ -8535,19 +8535,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Pereira Code\\.nuget\\packages\\": {}
+    "C:\\Users\\edson\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Full\\Chatexemplo\\WebChat\\WebChat\\WebChat\\WebChat.csproj",
+      "projectUniqueName": "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat\\WebChat.csproj",
       "projectName": "WebChat",
-      "projectPath": "C:\\Projetos\\Full\\Chatexemplo\\WebChat\\WebChat\\WebChat\\WebChat.csproj",
-      "packagesPath": "C:\\Users\\Pereira Code\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Full\\Chatexemplo\\WebChat\\WebChat\\WebChat\\obj\\",
+      "projectPath": "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat\\WebChat.csproj",
+      "packagesPath": "C:\\Users\\edson\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Pereira Code\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\edson\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8561,8 +8561,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Projetos\\Full\\Chatexemplo\\WebChat\\WebChat\\WebChat.Services\\WebChat.Services.csproj": {
-              "projectPath": "C:\\Projetos\\Full\\Chatexemplo\\WebChat\\WebChat\\WebChat.Services\\WebChat.Services.csproj"
+            "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Services\\WebChat.Services.csproj": {
+              "projectPath": "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Services\\WebChat.Services.csproj"
             }
           }
         }
@@ -8634,7 +8634,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

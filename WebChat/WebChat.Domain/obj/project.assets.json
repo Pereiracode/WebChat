@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Pereira Code\\.nuget\\packages\\": {}
+    "C:\\Users\\edson\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Full\\Chatexemplo\\WebChat\\WebChat\\WebChat.Domain\\WebChat.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Domain\\WebChat.Domain.csproj",
       "projectName": "WebChat.Domain",
-      "projectPath": "C:\\Projetos\\Full\\Chatexemplo\\WebChat\\WebChat\\WebChat.Domain\\WebChat.Domain.csproj",
-      "packagesPath": "C:\\Users\\Pereira Code\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Full\\Chatexemplo\\WebChat\\WebChat\\WebChat.Domain\\obj\\",
+      "projectPath": "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Domain\\WebChat.Domain.csproj",
+      "packagesPath": "C:\\Users\\edson\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Pereira Code\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\edson\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
