@@ -30,4 +30,11 @@
     <ProjectReference Include="..\WebChat.Services\WebChat.Services.csproj" />
   </ItemGroup>
 
+
+  <ItemGroup>
+    <None Update="ForbiddenWords.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
