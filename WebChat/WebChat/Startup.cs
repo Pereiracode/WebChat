@@ -10,6 +10,7 @@ using WebChat.Application.SignalR;
 using WebChat.Infra.Data.Context;
 using WebChat.Infra.Interfaces;
 using WebChat.Infra.Repositories;
+using WebChat.Services;
 using WebChat.Services.Interfaces;
 using WebChat.Services.Services;
 
@@ -31,6 +32,8 @@ namespace WebChat.Application
 
             services.AddTransient<IUserRepository, UserRepository>();
             services.AddTransient<IMessageRepository, MessageRepository>();
+
+            services.AddTransient<IProfanityFilter, ProfanityFilterService>();
 
             services.AddDbContext<ChatDataContext>(options => options.UseInMemoryDatabase("Database"));
 
