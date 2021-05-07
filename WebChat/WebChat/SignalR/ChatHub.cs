@@ -10,16 +10,19 @@ namespace WebChat.Application.SignalR
     public class ChatHub : Hub
     {
         private readonly IMessageService _messageService;
+        private readonly IProfanityFilter _profanityFilter;
 
-        public ChatHub(IMessageService messageService)
+        public ChatHub(IMessageService messageService, IProfanityFilter profanityFilter)
         {
             _messageService = messageService;
+            _profanityFilter = profanityFilter;
         }
 
         public async Task SendMessage(User user, string message, int receiverID)
         {
 
-            string message2 = ValidaMensagem(message);
+            //string message2 = ValidaMensagem(message);
+            string message2 = _profanityFilter.Filter(message);
 
             var messageSend = new Message
             {

@@ -27,13 +27,15 @@ namespace WebChat.Application
 
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddLogging();
+
             services.AddTransient<IUserService, UserService>();
             services.AddTransient<IMessageService, MessageService>();
 
             services.AddTransient<IUserRepository, UserRepository>();
             services.AddTransient<IMessageRepository, MessageRepository>();
 
-            services.AddTransient<IProfanityFilter, ProfanityFilterService>();
+            services.AddSingleton<IProfanityFilter, ProfanityFilterService>();
 
             services.AddDbContext<ChatDataContext>(options => options.UseInMemoryDatabase("Database"));
 

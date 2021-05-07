@@ -12,3 +12,17 @@ C:\Projetos\Full\Chatexemplo\WebChat\WebChat\WebChat.Services\obj\Debug\netcorea
 C:\Projetos\Full\Chatexemplo\WebChat\WebChat\WebChat.Services\obj\Debug\netcoreapp3.1\WebChat.Services.csproj.CopyComplete
 C:\Projetos\Full\Chatexemplo\WebChat\WebChat\WebChat.Services\obj\Debug\netcoreapp3.1\WebChat.Services.dll
 C:\Projetos\Full\Chatexemplo\WebChat\WebChat\WebChat.Services\obj\Debug\netcoreapp3.1\WebChat.Services.pdb
+C:\Users\Estudante\Source\Repos\edluz\WebChat\WebChat\WebChat.Services\bin\Debug\netcoreapp3.1\WebChat.Services.deps.json
+C:\Users\Estudante\Source\Repos\edluz\WebChat\WebChat\WebChat.Services\bin\Debug\netcoreapp3.1\WebChat.Services.dll
+C:\Users\Estudante\Source\Repos\edluz\WebChat\WebChat\WebChat.Services\bin\Debug\netcoreapp3.1\WebChat.Services.pdb
+C:\Users\Estudante\Source\Repos\edluz\WebChat\WebChat\WebChat.Services\bin\Debug\netcoreapp3.1\WebChat.Domain.dll
+C:\Users\Estudante\Source\Repos\edluz\WebChat\WebChat\WebChat.Services\bin\Debug\netcoreapp3.1\WebChat.Infra.dll
+C:\Users\Estudante\Source\Repos\edluz\WebChat\WebChat\WebChat.Services\bin\Debug\netcoreapp3.1\WebChat.Domain.pdb
+C:\Users\Estudante\Source\Repos\edluz\WebChat\WebChat\WebChat.Services\bin\Debug\netcoreapp3.1\WebChat.Infra.pdb
+C:\Users\Estudante\Source\Repos\edluz\WebChat\WebChat\WebChat.Services\obj\Debug\netcoreapp3.1\WebChat.Services.csprojAssemblyReference.cache
+C:\Users\Estudante\Source\Repos\edluz\WebChat\WebChat\WebChat.Services\obj\Debug\netcoreapp3.1\WebChat.Services.AssemblyInfoInputs.cache
+C:\Users\Estudante\Source\Repos\edluz\WebChat\WebChat\WebChat.Services\obj\Debug\netcoreapp3.1\WebChat.Services.AssemblyInfo.cs
+C:\Users\Estudante\Source\Repos\edluz\WebChat\WebChat\WebChat.Services\obj\Debug\netcoreapp3.1\WebChat.Services.csproj.CoreCompileInputs.cache
+C:\Users\Estudante\Source\Repos\edluz\WebChat\WebChat\WebChat.Services\obj\Debug\netcoreapp3.1\WebChat.Services.csproj.CopyComplete
+C:\Users\Estudante\Source\Repos\edluz\WebChat\WebChat\WebChat.Services\obj\Debug\netcoreapp3.1\WebChat.Services.dll
+C:\Users\Estudante\Source\Repos\edluz\WebChat\WebChat\WebChat.Services\obj\Debug\netcoreapp3.1\WebChat.Services.pdb

@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\edson\\.nuget\\packages\\": {}
+    "C:\\Users\\Estudante\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Domain\\WebChat.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Estudante\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Domain\\WebChat.Domain.csproj",
       "projectName": "WebChat.Domain",
-      "projectPath": "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Domain\\WebChat.Domain.csproj",
-      "packagesPath": "C:\\Users\\edson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Domain\\obj\\",
+      "projectPath": "C:\\Users\\Estudante\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Domain\\WebChat.Domain.csproj",
+      "packagesPath": "C:\\Users\\Estudante\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Estudante\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\edson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Estudante\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
