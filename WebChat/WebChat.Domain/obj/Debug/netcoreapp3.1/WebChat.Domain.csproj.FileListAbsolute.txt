@@ -7,3 +7,12 @@ C:\Projetos\Full\Chatexemplo\WebChat\WebChat\WebChat.Domain\obj\Debug\netcoreapp
 C:\Projetos\Full\Chatexemplo\WebChat\WebChat\WebChat.Domain\obj\Debug\netcoreapp3.1\WebChat.Domain.csproj.CoreCompileInputs.cache
 C:\Projetos\Full\Chatexemplo\WebChat\WebChat\WebChat.Domain\obj\Debug\netcoreapp3.1\WebChat.Domain.dll
 C:\Projetos\Full\Chatexemplo\WebChat\WebChat\WebChat.Domain\obj\Debug\netcoreapp3.1\WebChat.Domain.pdb
+C:\Users\Estudante\Source\Repos\edluz\WebChat\WebChat\WebChat.Domain\bin\Debug\netcoreapp3.1\WebChat.Domain.deps.json
+C:\Users\Estudante\Source\Repos\edluz\WebChat\WebChat\WebChat.Domain\bin\Debug\netcoreapp3.1\WebChat.Domain.dll
+C:\Users\Estudante\Source\Repos\edluz\WebChat\WebChat\WebChat.Domain\bin\Debug\netcoreapp3.1\WebChat.Domain.pdb
+C:\Users\Estudante\Source\Repos\edluz\WebChat\WebChat\WebChat.Domain\obj\Debug\netcoreapp3.1\WebChat.Domain.csprojAssemblyReference.cache
+C:\Users\Estudante\Source\Repos\edluz\WebChat\WebChat\WebChat.Domain\obj\Debug\netcoreapp3.1\WebChat.Domain.AssemblyInfoInputs.cache
+C:\Users\Estudante\Source\Repos\edluz\WebChat\WebChat\WebChat.Domain\obj\Debug\netcoreapp3.1\WebChat.Domain.AssemblyInfo.cs
+C:\Users\Estudante\Source\Repos\edluz\WebChat\WebChat\WebChat.Domain\obj\Debug\netcoreapp3.1\WebChat.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Estudante\Source\Repos\edluz\WebChat\WebChat\WebChat.Domain\obj\Debug\netcoreapp3.1\WebChat.Domain.dll
+C:\Users\Estudante\Source\Repos\edluz\WebChat\WebChat\WebChat.Domain\obj\Debug\netcoreapp3.1\WebChat.Domain.pdb

@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\WebChat",
-    "\\WebChat\\WebChat"
+    ""
   ],
-  "SelectedNode": "\\WebChat\\WebChat\\appsettings.json",
+  "SelectedNode": "\\WebChat.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -8535,19 +8535,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\edson\\.nuget\\packages\\": {}
+    "C:\\Users\\Estudante\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat\\WebChat.csproj",
+      "projectUniqueName": "C:\\Users\\Estudante\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat\\WebChat.csproj",
       "projectName": "WebChat",
-      "projectPath": "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat\\WebChat.csproj",
-      "packagesPath": "C:\\Users\\edson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat\\obj\\",
+      "projectPath": "C:\\Users\\Estudante\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat\\WebChat.csproj",
+      "packagesPath": "C:\\Users\\Estudante\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Estudante\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\edson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Estudante\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8561,8 +8561,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Services\\WebChat.Services.csproj": {
-              "projectPath": "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Services\\WebChat.Services.csproj"
+            "C:\\Users\\Estudante\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Services\\WebChat.Services.csproj": {
+              "projectPath": "C:\\Users\\Estudante\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Services\\WebChat.Services.csproj"
             }
           }
         }

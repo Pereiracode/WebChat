@@ -15,9 +15,9 @@ namespace WebChat.Services.Services
         IEnumerable<Regex> ForbiddenWordsRegex { get; }
         string ForbiddenWordsTextFile { get; }
         public IConfiguration Configuration { get; }
-        public ILogger Logger { get; }
+        public ILogger<ProfanityFilterService> Logger { get; }
 
-        public ProfanityFilterService(IConfiguration configuration, ILogger logger)
+        public ProfanityFilterService(IConfiguration configuration, ILogger<ProfanityFilterService> logger)
         {
             Configuration = configuration;
             Logger = logger;
@@ -47,7 +47,7 @@ namespace WebChat.Services.Services
 
                 ForbiddenWordsRegex = forbiddenWordsRegex.AsEnumerable();
 
-                Logger.LogInformation("{0} palavras do arquivo de palavras proibidas em {1} foi carregado com sucesso.", loadedWords, ForbiddenWordsTextFile);
+                Logger.LogInformation("{0} palavras do arquivo de palavras proibidas em {1} foram carregadas com sucesso.", loadedWords, ForbiddenWordsTextFile);
             }
             catch (FileNotFoundException)
             {

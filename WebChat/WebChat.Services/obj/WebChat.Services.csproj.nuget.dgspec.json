@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Services\\WebChat.Services.csproj": {}
+    "C:\\Users\\Estudante\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Services\\WebChat.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Domain\\WebChat.Domain.csproj": {
+    "C:\\Users\\Estudante\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Domain\\WebChat.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Domain\\WebChat.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Estudante\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Domain\\WebChat.Domain.csproj",
         "projectName": "WebChat.Domain",
-        "projectPath": "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Domain\\WebChat.Domain.csproj",
-        "packagesPath": "C:\\Users\\edson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Estudante\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Domain\\WebChat.Domain.csproj",
+        "packagesPath": "C:\\Users\\Estudante\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Estudante\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\edson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Estudante\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,17 +58,17 @@
         }
       }
     },
-    "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Infra\\WebChat.Infra.csproj": {
+    "C:\\Users\\Estudante\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Infra\\WebChat.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Infra\\WebChat.Infra.csproj",
+        "projectUniqueName": "C:\\Users\\Estudante\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Infra\\WebChat.Infra.csproj",
         "projectName": "WebChat.Infra",
-        "projectPath": "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Infra\\WebChat.Infra.csproj",
-        "packagesPath": "C:\\Users\\edson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Infra\\obj\\",
+        "projectPath": "C:\\Users\\Estudante\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Infra\\WebChat.Infra.csproj",
+        "packagesPath": "C:\\Users\\Estudante\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Estudante\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\edson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Estudante\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,8 +82,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Domain\\WebChat.Domain.csproj": {
-                "projectPath": "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Domain\\WebChat.Domain.csproj"
+              "C:\\Users\\Estudante\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Domain\\WebChat.Domain.csproj": {
+                "projectPath": "C:\\Users\\Estudante\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Domain\\WebChat.Domain.csproj"
               }
             }
           }
@@ -138,17 +138,17 @@
         }
       }
     },
-    "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Services\\WebChat.Services.csproj": {
+    "C:\\Users\\Estudante\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Services\\WebChat.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Services\\WebChat.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Estudante\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Services\\WebChat.Services.csproj",
         "projectName": "WebChat.Services",
-        "projectPath": "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Services\\WebChat.Services.csproj",
-        "packagesPath": "C:\\Users\\edson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Services\\obj\\",
+        "projectPath": "C:\\Users\\Estudante\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Services\\WebChat.Services.csproj",
+        "packagesPath": "C:\\Users\\Estudante\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Estudante\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\edson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Estudante\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -162,11 +162,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Domain\\WebChat.Domain.csproj": {
-                "projectPath": "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Domain\\WebChat.Domain.csproj"
+              "C:\\Users\\Estudante\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Domain\\WebChat.Domain.csproj": {
+                "projectPath": "C:\\Users\\Estudante\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Domain\\WebChat.Domain.csproj"
               },
-              "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Infra\\WebChat.Infra.csproj": {
-                "projectPath": "C:\\Users\\edson\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Infra\\WebChat.Infra.csproj"
+              "C:\\Users\\Estudante\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Infra\\WebChat.Infra.csproj": {
+                "projectPath": "C:\\Users\\Estudante\\Source\\Repos\\edluz\\WebChat\\WebChat\\WebChat.Infra\\WebChat.Infra.csproj"
               }
             }
           }

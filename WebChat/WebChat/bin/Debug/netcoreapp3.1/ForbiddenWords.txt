@@ -1,0 +1,6 @@
+﻿put(?:a|o)
+merda
+bosta
+viado
+boiola
+c(?:u|ú)
